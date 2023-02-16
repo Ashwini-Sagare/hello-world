@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New devops learning for beginers with Ashwini</h1>
+    <h1>New devops learning for beginers with Ashwini Sagare</h1>
     <p>Please kindly fill in this form urgently and fast</p>
     <hr>
      
